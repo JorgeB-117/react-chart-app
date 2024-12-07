@@ -1,4 +1,4 @@
-// Task 1: Create the Reusable ChartComponent
+// Task 2: Create the Reusable ChartComponent
 
 import React, { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
